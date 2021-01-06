@@ -1,0 +1,239 @@
+.info--page--main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    flex-wrap: wrap;
+
+    .info--1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .img-logo-1{
+            width:80px;
+    
+        }
+
+        .text-info-1{
+            max-width: 310px;
+            font-size: 30px;
+            margin-top: 10px;
+            text-align: center;
+        }
+    }
+
+    .info--2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .img-logo-2{
+            width:80px;
+    
+        }
+
+        .text-info-2{
+            max-width: 300px;
+            font-size: 30px;
+            margin-top: 10px;
+            text-align: center;
+        }
+    }
+
+
+    .info--3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .img-logo-3{
+            width:80px;
+    
+        }
+
+        .text-info-3{
+            max-width: 300px;
+            font-size: 30px;
+            margin-top: 10px;
+            text-align: center;
+        }
+    }
+
+}
+
+
+
+
+/* BEST PLANTE */
+
+.best--plante--main{
+    
+    .title-best-plante{
+        font-size: 90px;
+        margin-top: 120px;
+        margin-left: 130px;
+        font-family: 'Abril Fatface', cursive;
+    }
+
+    .surligne-green{
+        background-color:#09d016;
+        width: 5%;
+        height: 7px;
+        margin-left: 130px;
+    }
+
+    .box--plante{
+        display: flex;
+        margin-top: 50px;
+        justify-content:center;
+        flex-wrap: wrap;
+
+
+        .plante-box{
+            background-size: cover;
+            background-position: center;
+            min-width: 395px;
+            height: 510px; 
+            overflow: hidden;
+        }
+
+        .plante-1{
+            background-image: url("../images/nos_meilleures_ventes/1.jpg");
+            .bg-plante-1-hero{
+                background: rgb(236, 237, 236,0.9);
+                width: 100%;
+                height:100px;
+                margin-top: 410px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+
+
+                .h3-hero-1{
+                    font-size: 28px;
+                    font-family: 'Roboto', sans-serif;
+                }
+
+                .p-hero-1{
+                    color: #67c54a;
+                    font-family: 'Roboto', sans-serif;
+                    font-size: 20px;
+                }
+
+                .a-hero-1{
+                    background-color: #67c54a ;
+                    padding: 12px 35px;
+                    border-radius: 30px;
+                    color: #FFFFFFDF;
+                }
+
+            }
+        }
+
+        .plante-2{
+            background-image: url("../images/nos_meilleures_ventes/2.jpg");
+
+            .bg-plante-2-hero{
+                background: rgb(255, 255, 255,0.9);
+                width: 100%;
+                height:100px;
+                margin-top: 410px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+
+                .h3-hero-2{
+                    font-size: 28px;
+                    font-family: 'Roboto', sans-serif;
+                }
+
+                .p-hero-2{
+                    color: #67c54a;
+                    font-family: 'Roboto', sans-serif;
+                    font-size: 20px;
+                }
+
+                .a-hero-2{
+                    background-color: #67c54a ;
+                    padding: 12px 35px;
+                    border-radius: 30px;
+                    color: #FFFFFFDF;
+                }
+            }
+        }
+
+        .plante-3{
+            background-image: url("../images/nos_meilleures_ventes/3.jpg");
+            
+            .bg-plante-3-info{
+                background: rgb(255, 255, 255,0.9);
+                width: 100%;
+                height:100px;
+                margin-top: 410px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+
+
+                .h3-hero-3{
+                    font-size: 28px;
+                    font-family: 'Roboto', sans-serif;
+                }
+
+                .p-hero-3{
+                    color: #67c54a;
+                    font-family: 'Roboto', sans-serif;
+                    font-size: 20px;
+                }
+
+                .a-hero-3{
+                    background-color: #67c54a ;
+                    padding: 12px 35px;
+                    border-radius: 30px;
+                    color: #FFFFFFDF;
+                }
+            }
+        }
+
+        .plante-4{
+            background-image: url("../images/nos_meilleures_ventes/4.jpg");
+
+            .bg-plante-4-info{
+                background: rgb(236, 237, 236,0.9);
+                width: 100%;
+                height:100px;
+                margin-top: 410px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+
+
+                .h3-hero-4{
+                    font-size: 28px;
+                    font-family: 'Roboto', sans-serif;
+                }
+
+                .p-hero-4{
+                    color: #67c54a;
+                    font-family: 'Roboto', sans-serif;
+                    font-size: 20px;
+                }
+
+                .a-hero-4{
+                    background-color: #67c54a ;
+                    padding: 12px 35px;
+                    border-radius: 30px;
+                    color: #FFFFFFDF;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+

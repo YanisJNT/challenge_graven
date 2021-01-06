@@ -1,0 +1,233 @@
+/* Nos plantes */
+.nos--plantes {
+  margin-top: 150px;
+}
+.nos--plantes .title-nos-plantes {
+  font-size: 90px;
+  font-family: "Abril Fatface", cursive;
+  margin-left: 130px;
+}
+.nos--plantes .surligne-green-2 {
+  background-color: #09d016;
+  width: 5%;
+  height: 7px;
+  margin-left: 130px;
+}
+.nos--plantes .box--superplante--1 {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr 1.3fr;
+  grid-template-rows: 500px 500px 450px 450px;
+  padding: 0 152px;
+  gap: 29px;
+  justify-content: center;
+}
+.nos--plantes .box--superplante--1 .super-box {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  min-width: 302px;
+}
+.nos--plantes .box--superplante--1 .super-plante-1 {
+  background-image: url("../images/nos_plantes/1.jpg");
+  grid-column: 1/3;
+  grid-row: 1/3;
+  position: relative;
+}
+.nos--plantes .box--superplante--1 .super-plante-1 .bg--super1 {
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  bottom: 0;
+}
+.nos--plantes .box--superplante--1 .super-plante-1 .bg--super1 .flex--super--plante-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.nos--plantes .box--superplante--1 .super-plante-1 .bg--super1 .flex--super--plante-1 .h3-super-1 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+.nos--plantes .box--superplante--1 .super-plante-1 .bg--super1 .flex--super--plante-1 .p-super-1 {
+  color: #67c54a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.nos--plantes .box--superplante--1 .super-plante-1 .bg--super1 .flex--super--plante-1 .a-super-1 {
+  background-color: #67c54a;
+  padding: 12px 35px;
+  border-radius: 30px;
+  color: #FFFFFFDF;
+}
+.nos--plantes .box--superplante--1 .super-plante-2 {
+  background-image: url("../images/nos_plantes/2.jpg");
+  grid-column: 3/5;
+  position: relative;
+}
+.nos--plantes .box--superplante--1 .super-plante-2 .bg--super2 {
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  bottom: 0;
+}
+.nos--plantes .box--superplante--1 .super-plante-2 .bg--super2 .flex--super--plante-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.nos--plantes .box--superplante--1 .super-plante-2 .bg--super2 .flex--super--plante-2 .h3-super-2 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+.nos--plantes .box--superplante--1 .super-plante-2 .bg--super2 .flex--super--plante-2 .p-super-2 {
+  color: #67c54a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.nos--plantes .box--superplante--1 .super-plante-2 .bg--super2 .flex--super--plante-2 .a-super-2 {
+  background-color: #67c54a;
+  padding: 12px 35px;
+  border-radius: 30px;
+  color: #FFFFFFDF;
+}
+.nos--plantes .box--superplante--1 .super-plante-3 {
+  background-image: url("../images/nos_plantes/3.jpg");
+  grid-column: 3/5;
+  position: relative;
+}
+.nos--plantes .box--superplante--1 .super-plante-3 .bg--super3 {
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  bottom: 0;
+}
+.nos--plantes .box--superplante--1 .super-plante-3 .bg--super3 .flex--super--plante-3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.nos--plantes .box--superplante--1 .super-plante-3 .bg--super3 .flex--super--plante-3 .h3-super-3 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+.nos--plantes .box--superplante--1 .super-plante-3 .bg--super3 .flex--super--plante-3 .p-super-3 {
+  color: #67c54a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.nos--plantes .box--superplante--1 .super-plante-3 .bg--super3 .flex--super--plante-3 .a-super-3 {
+  background-color: #67c54a;
+  padding: 12px 35px;
+  border-radius: 30px;
+  color: #FFFFFFDF;
+}
+.nos--plantes .box--superplante--1 .super-plante-4 {
+  background-image: url("../images/nos_plantes/4.jpg");
+  grid-column: 1;
+  grid-row: 3/5;
+  overflow: hidden;
+  position: relative;
+}
+.nos--plantes .box--superplante--1 .super-plante-4 .bg--super4 {
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  bottom: 0;
+}
+.nos--plantes .box--superplante--1 .super-plante-4 .bg--super4 .flex--super--plante-4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.nos--plantes .box--superplante--1 .super-plante-4 .bg--super4 .flex--super--plante-4 .h3-super-4 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+.nos--plantes .box--superplante--1 .super-plante-4 .bg--super4 .flex--super--plante-4 .p-super-4 {
+  color: #67c54a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.nos--plantes .box--superplante--1 .super-plante-4 .bg--super4 .flex--super--plante-4 .a-super-4 {
+  background-color: #67c54a;
+  padding: 12px 35px;
+  border-radius: 30px;
+  color: #FFFFFFDF;
+}
+.nos--plantes .box--superplante--1 .super-plante-5 {
+  background-image: url("../images/nos_plantes/5.jpg");
+  grid-column: 2/4;
+  grid-row: 3/5;
+  position: relative;
+}
+.nos--plantes .box--superplante--1 .super-plante-5 .bg--super5 {
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  bottom: 0;
+}
+.nos--plantes .box--superplante--1 .super-plante-5 .bg--super5 .flex--super--plante-5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.nos--plantes .box--superplante--1 .super-plante-5 .bg--super5 .flex--super--plante-5 .h3-super-5 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+.nos--plantes .box--superplante--1 .super-plante-5 .bg--super5 .flex--super--plante-5 .p-super-5 {
+  color: #67c54a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.nos--plantes .box--superplante--1 .super-plante-5 .bg--super5 .flex--super--plante-5 .a-super-5 {
+  background-color: #67c54a;
+  padding: 12px 35px;
+  border-radius: 30px;
+  color: #FFFFFFDF;
+}
+.nos--plantes .box--superplante--1 .super-plante-6 {
+  background-image: url("../images/nos_plantes/6.jpg");
+  grid-row: 3/5;
+  position: relative;
+}
+.nos--plantes .box--superplante--1 .super-plante-6 .bg--super6 {
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  bottom: 0;
+}
+.nos--plantes .box--superplante--1 .super-plante-6 .bg--super6 .flex--super--plante-6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.nos--plantes .box--superplante--1 .super-plante-6 .bg--super6 .flex--super--plante-6 .h3-super-6 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+.nos--plantes .box--superplante--1 .super-plante-6 .bg--super6 .flex--super--plante-6 .p-super-6 {
+  color: #67c54a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.nos--plantes .box--superplante--1 .super-plante-6 .bg--super6 .flex--super--plante-6 .a-super-6 {
+  background-color: #67c54a;
+  padding: 12px 35px;
+  border-radius: 30px;
+  color: #FFFFFFDF;
+}
